@@ -38,8 +38,8 @@ const client = new(require("easy-presence").EasyPresence)("499374732655984651");
 
 const API = require('last.fm.api'),
   api = new API({
-    apiKey: '6d6bf952135ec7a0ceee6fc67ef03768',
-    apiSecret: '16904428e4a4de577339c4655b5a98fe'
+    apiKey: '',
+    apiSecret: ''
   });
 
 try {
